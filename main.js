@@ -10,7 +10,6 @@ let secretMessage = ['Learning', 'is', 'not', 'about', 'what', 'you', 'get', 'ea
 console.log(secretMessage);
 console.log(secretMessage.length);
 
-
 // Use an array method to remove the last string of the array secretMessage.
 secretMessage.pop();
 
